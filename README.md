@@ -1,2 +1,2 @@
-# algorithms-and-data-structures
-A repository for my algorithm and data structure learning path.
+# codewars-coding-challenge
+Codewars coding challenge repository.
